@@ -12,4 +12,4 @@ Game control:
 	up arrow : rotates the piece right
 	down arrow : rotates the piece left
 
-![Alt text](TETRIS_GAME\doc\images/Testris_screen_2.png?raw=true "Tetris screen dump.")
+![Alt text](TETRIS_GAME/doc/images/Testris_screen_2.png?raw=true "Tetris screen dump.")
